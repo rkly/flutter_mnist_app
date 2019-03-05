@@ -1,5 +1,7 @@
 # flutter_mnist_app
 
+dev
+
 Flutter application with built in tf-lite MNIST model.
 
 ## Getting Started
